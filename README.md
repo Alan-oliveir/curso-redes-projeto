@@ -30,7 +30,7 @@
   - Roteador 1:
       - Rede financeiro;
       - Rede RH;
-      - Rede Roteadores
+      - Rede Roteadores;
   - Roteador 2:
       - Rede Tecnologia;
       - Rede Roteadores;
@@ -41,8 +41,11 @@
 - **Explicação**:
   - O objetivo final é que os dispositivos da Rede Financeira consigam se comunicar com os dispositivos da rede do RH e da Tecnologia.
   - Deve ser permitido que um dispositivo da rede Financeiro acesse o site da rede RH e vice versa.
-  - Todos os DNS´s devem ser resolvidos pelo servidor DNS da tecnologia;
-___
+  - Todos os DNS´s devem ser resolvidos pelo servidor DNS da tecnologia. 
 
+## Projeto final:
+![Projeto final](redes-projeto-final.png)
+
+___
 - **Aluno:** Alan de O. Gonçalves
 - **Professores:** Daniel e Thayse
